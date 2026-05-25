@@ -1,7 +1,7 @@
 {
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute",
-  "attachmentFolderPath": "./附件",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./attachments",
   "showLineNumber": false,
   "showIndentGuide": true,
   "promptDelete": false,
