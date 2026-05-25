@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./",
   "showLineNumber": false,
   "showIndentGuide": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current"
 }
