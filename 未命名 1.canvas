@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"258a0d1516e8c5f1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"hello"},
-		{"id":"8123e29bc2932fc2","x":125,"y":-230,"width":400,"height":400,"type":"file","file":"test.md"},
-		{"id":"04f317bc1595094c","x":-420,"y":-320,"width":400,"height":400,"type":"file","file":"未命名.canvas"}
-	],
-	"edges":[]
-}
