@@ -4,8 +4,8 @@
   "title": "Add explanation below",
   "titleGenerationStatus": "success",
   "createdAt": 1779680910475,
-  "updatedAt": 1779680932628,
-  "lastResponseAt": 1779680932628,
+  "updatedAt": 1779681493768,
+  "lastResponseAt": 1779681493768,
   "sessionId": "1fb04359-b038-4182-8494-7837d1c44526",
   "providerState": {
     "providerSessionId": "1fb04359-b038-4182-8494-7837d1c44526"
@@ -13,11 +13,11 @@
   "currentNote": "数电/study.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 569,
+    "inputTokens": 1182,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 20352,
+    "cacheReadInputTokens": 21376,
     "contextWindow": 1000000,
-    "contextTokens": 20921,
+    "contextTokens": 22558,
     "percentage": 2
   }
 }
