@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779680910475-5zm7nhup7",
+  "providerId": "claude",
+  "title": "Add explanation below",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779680910475,
+  "updatedAt": 1779680932628,
+  "lastResponseAt": 1779680932628,
+  "sessionId": "1fb04359-b038-4182-8494-7837d1c44526",
+  "providerState": {
+    "providerSessionId": "1fb04359-b038-4182-8494-7837d1c44526"
+  },
+  "currentNote": "数电/study.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 569,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20352,
+    "contextWindow": 1000000,
+    "contextTokens": 20921,
+    "percentage": 2
+  }
+}
