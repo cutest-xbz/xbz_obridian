@@ -5,14 +5,15 @@
   "templater-obsidian",
   "obsidian-hover-editor",
   "dataview",
-  "obsidian-icon-folder",
-  "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "omnisearch",
   "obsidian-latex-suite",
-  "pdf-plus",
   "obsidian-minimal-settings",
   "copilot",
   "realclaudian",
-  "calendar"
+  "calendar",
+  "code-styler",
+  "obsidian-icon-folder",
+  "pdf-plus",
+  "obsidian-style-settings"
 ]
