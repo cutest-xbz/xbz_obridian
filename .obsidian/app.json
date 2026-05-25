@@ -1,5 +1,7 @@
 {
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "showIndentGuide": true
 }
