@@ -1,10 +1,11 @@
 {
-  "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
-  "attachmentFolderPath": "./",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./attachments",
   "showLineNumber": false,
   "showIndentGuide": true,
   "promptDelete": false,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
