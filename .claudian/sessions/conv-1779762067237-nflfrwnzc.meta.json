@@ -4,19 +4,19 @@
   "title": "Explain discrete-time system network structures",
   "titleGenerationStatus": "success",
   "createdAt": 1779762067237,
-  "updatedAt": 1779762200946,
-  "lastResponseAt": 1779762200946,
+  "updatedAt": 1779766815670,
+  "lastResponseAt": 1779766815670,
   "sessionId": "c9ac6866-7381-42ff-9781-9caa0ac7657d",
   "providerState": {
     "providerSessionId": "c9ac6866-7381-42ff-9781-9caa0ac7657d"
   },
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 1984,
+    "inputTokens": 257,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 30336,
+    "cacheReadInputTokens": 34944,
     "contextWindow": 1000000,
-    "contextTokens": 32320,
-    "percentage": 3
+    "contextTokens": 35201,
+    "percentage": 4
   }
 }

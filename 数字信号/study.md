@@ -45,10 +45,12 @@ _开启变换域视角，连接连续与离散。_
 - ⭐ **DFS与关联：** 熟悉周期序列的离散傅里叶级数（DFS）及 DTFT 的表达式；理解离散傅里叶变换与模拟信号傅里叶变换之间的对应关系。
     
 - ⭐ **Z变换：** 熟悉 Z变换的定义、**收敛域（ROC）**、核心性质与定理。
-- ![[数字信号/attachments/Pasted image 20260526112540.png|474]]
-- ![[数字信号/attachments/Pasted image 20260526112920.png|474]]
-- ![[数字信号/attachments/Pasted image 20260526113818.png|479]]
--等比数列求和公式 $$\sum_{n=0}^{N-1} q^n = \frac{1-q^N}{1-q} \quad (q \neq 1)$$
+    
+    > [!note]- 详细内容
+    > ![[数字信号/attachments/Pasted image 20260526112540.png|474]]
+    > ![[数字信号/attachments/Pasted image 20260526112920.png|474]]
+    > ![[数字信号/attachments/Pasted image 20260526113818.png|479]]
+    > 等比数列求和公式 $$\sum_{n=0}^{N-1} q^n = \frac{1-q^N}{1-q} \quad (q \neq 1)$$
     
 - 📖 **频响分析：** 了解如何利用 Z变换的系统函数 $H(z)$（零极点分布）来分析信号与系统的频率响应特性。
     
