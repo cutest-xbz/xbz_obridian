@@ -48,11 +48,7 @@ _开启变换域视角，连接连续与离散。_
 	- **卷积定理**：$\mathcal{Z}[x_1(n)*x_2(n)]=X_1(z)X_2(z)$，ROC 至少为 $R_1\cap R_2$
 	- **初值定理（因果序列）**：$x(0)=\lim_{z\to\infty}X(z)$
 	- **终值定理（因果序列）**：$\lim_{n\to\infty}x(n)=\lim_{z\to 1}(1-z^{-1})X(z)$（极点需在单位圆内）
-	**常用 Z 变换对：**
-	- $\delta(n) \leftrightarrow 1$，ROC：整个 $z$ 平面
-	- $u(n) \leftrightarrow \frac{1}{1-z^{-1}}$，ROC：$|z|>1$
-	- $a^n u(n) \leftrightarrow \frac{1}{1-az^{-1}}$，ROC：$|z|>|a|$
-	- $na^n u(n) \leftrightarrow \frac{az^{-1}}{(1-az^{-1})^2}$，ROC：$|z|>|a|$
+	
 	**逆 Z 变换方法：** 留数法（围线积分）、幂级数展开法（长除法）、部分分式展开法。
 	![[数字信号/attachments/Pasted image 20260526112540.png|474]]
 	![[数字信号/attachments/Pasted image 20260526112920.png|474]]
