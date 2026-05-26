@@ -33,6 +33,27 @@ _开启变换域视角，连接连续与离散。_
 - 🔥 **DTFT：** 掌握时域离散信号的傅里叶变换（DTFT）的定义与核心性质。
 - ⭐ **DFS与关联：** 熟悉周期序列的离散傅里叶级数（DFS）及 DTFT 的表达式；理解离散傅里叶变换与模拟信号傅里叶变换之间的对应关系。
 - ⭐ **Z变换：** 熟悉 Z变换的定义、**收敛域（ROC）**、核心性质与定理。
+	**定义：** 序列 $x(n)$ 的双边 Z 变换为：
+	$$X(z)=\mathcal{Z}[x(n)]=\sum_{n=-\infty}^{+\infty}x(n)z^{-n}$$
+	其中 $z$ 为复变量，$z^{-n}$ 为基函数（复指数序列）。若 $x(n)$ 为因果序列（$n<0$ 时 $x(n)=0$），则退化为**单边 Z 变换**：$X(z)=\sum_{n=0}^{+\infty}x(n)z^{-n}$。
+	**收敛域（ROC）：** 使 $X(z)$ 收敛（级数和有限）的 $z$ 的取值集合。ROC 的形状由序列类型决定：
+	- **有限长序列**：ROC 为整个 $z$ 平面（$z=0$ 和/或 $z=\infty$ 可能除外）
+	- **右边序列**：ROC 为 $|z|>R_{x-}$（圆外）
+	- **左边序列**：ROC 为 $|z|<R_{x+}$（圆内）
+	- **双边序列**：ROC 为 $R_{x-}<|z|<R_{x+}$（圆环）
+	**核心性质：**
+	- **线性**：$\mathcal{Z}[ax_1(n)+bx_2(n)]=aX_1(z)+bX_2(z)$，ROC 至少为 $R_1\cap R_2$
+	- **位移（时移）**：$\mathcal{Z}[x(n-n_0)]=z^{-n_0}X(z)$，ROC 仅在 $z=0$ 或 $z=\infty$ 处可能变化
+	- **频移（乘以指数序列）**：$\mathcal{Z}[a^n x(n)]=X(z/a)$，ROC 按 $|a|$ 缩放
+	- **卷积定理**：$\mathcal{Z}[x_1(n)*x_2(n)]=X_1(z)X_2(z)$，ROC 至少为 $R_1\cap R_2$
+	- **初值定理（因果序列）**：$x(0)=\lim_{z\to\infty}X(z)$
+	- **终值定理（因果序列）**：$\lim_{n\to\infty}x(n)=\lim_{z\to 1}(1-z^{-1})X(z)$（极点需在单位圆内）
+	**常用 Z 变换对：**
+	- $\delta(n) \leftrightarrow 1$，ROC：整个 $z$ 平面
+	- $u(n) \leftrightarrow \frac{1}{1-z^{-1}}$，ROC：$|z|>1$
+	- $a^n u(n) \leftrightarrow \frac{1}{1-az^{-1}}$，ROC：$|z|>|a|$
+	- $na^n u(n) \leftrightarrow \frac{az^{-1}}{(1-az^{-1})^2}$，ROC：$|z|>|a|$
+	**逆 Z 变换方法：** 留数法（围线积分）、幂级数展开法（长除法）、部分分式展开法。
 	![[数字信号/attachments/Pasted image 20260526112540.png|474]]
 	![[数字信号/attachments/Pasted image 20260526112920.png|474]]
 	![[数字信号/attachments/Pasted image 20260526113818.png|479]]
