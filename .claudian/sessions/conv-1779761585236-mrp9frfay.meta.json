@@ -1,0 +1,22 @@
+{
+  "id": "conv-1779761585236-mrp9frfay",
+  "providerId": "claude",
+  "title": "Break down exam points for beginners",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779761585236,
+  "updatedAt": 1779761833783,
+  "lastResponseAt": 1779761833783,
+  "sessionId": "208ec37d-0a11-4a5b-ae8b-e69d48d5c8e6",
+  "providerState": {
+    "providerSessionId": "208ec37d-0a11-4a5b-ae8b-e69d48d5c8e6"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1004,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22528,
+    "contextWindow": 1000000,
+    "contextTokens": 23532,
+    "percentage": 2
+  }
+}

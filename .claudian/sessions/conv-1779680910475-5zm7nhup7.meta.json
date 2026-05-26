@@ -4,19 +4,19 @@
   "title": "Add explanation below",
   "titleGenerationStatus": "success",
   "createdAt": 1779680910475,
-  "updatedAt": 1779761408796,
-  "lastResponseAt": 1779761408796,
+  "updatedAt": 1779761797853,
+  "lastResponseAt": 1779761797853,
   "sessionId": "1fb04359-b038-4182-8494-7837d1c44526",
   "providerState": {
     "providerSessionId": "1fb04359-b038-4182-8494-7837d1c44526"
   },
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 119,
+    "inputTokens": 57,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 57856,
+    "cacheReadInputTokens": 86144,
     "contextWindow": 1000000,
-    "contextTokens": 57975,
-    "percentage": 6
+    "contextTokens": 86201,
+    "percentage": 9
   }
 }
