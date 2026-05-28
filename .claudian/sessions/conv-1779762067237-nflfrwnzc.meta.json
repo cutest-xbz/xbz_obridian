@@ -4,12 +4,13 @@
   "title": "Explain the meaning of 作用",
   "titleGenerationStatus": "success",
   "createdAt": 1779762067237,
-  "updatedAt": 1779937113477,
-  "lastResponseAt": 1779937109862,
+  "updatedAt": 1779937190773,
+  "lastResponseAt": 1779937147152,
   "sessionId": "c9ac6866-7381-42ff-9781-9caa0ac7657d",
   "providerState": {
     "providerSessionId": "c9ac6866-7381-42ff-9781-9caa0ac7657d"
   },
+  "currentNote": "江协stm32/笔记.md",
   "usage": {
     "model": "sonnet[1m]",
     "inputTokens": 151,
