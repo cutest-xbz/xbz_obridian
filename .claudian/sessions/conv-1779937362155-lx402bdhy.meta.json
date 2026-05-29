@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779937362155-lx402bdhy",
+  "providerId": "claude",
+  "title": "Greet the assistant",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779937362155,
+  "updatedAt": 1779937465413,
+  "lastResponseAt": 1779937465413,
+  "sessionId": "004f7bf5-195e-457d-9466-8c368436d079",
+  "providerState": {
+    "providerSessionId": "004f7bf5-195e-457d-9466-8c368436d079"
+  },
+  "currentNote": "江协stm32/笔记.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 66,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22016,
+    "contextWindow": 1000000,
+    "contextTokens": 22082,
+    "percentage": 2
+  }
+}
