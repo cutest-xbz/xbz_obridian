@@ -1,5 +1,5 @@
 
-
+![[FPGA/verilog/attachments/Pasted image 20260529092622.png|517]]
 ## 一、 左侧：Verilog 模块的基本框架
 
 整个模块被包裹在 `module 模块名...` 和 `endmodule` 之间，主要分为两个大区：
