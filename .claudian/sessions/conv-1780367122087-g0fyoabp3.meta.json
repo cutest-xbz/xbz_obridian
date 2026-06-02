@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780367122087-g0fyoabp3",
+  "providerId": "claude",
+  "title": "Explain the term 方法",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780367122087,
+  "updatedAt": 1780367208865,
+  "lastResponseAt": 1780367208865,
+  "sessionId": "ba31eaee-9c70-4fdf-a6de-0529becff904",
+  "providerState": {
+    "providerSessionId": "ba31eaee-9c70-4fdf-a6de-0529becff904"
+  },
+  "currentNote": "微机原理/学习大纲.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 431,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34816,
+    "contextWindow": 1000000,
+    "contextTokens": 35247,
+    "percentage": 4
+  }
+}
