@@ -4,8 +4,8 @@
   "title": "Explain the term 方法",
   "titleGenerationStatus": "success",
   "createdAt": 1780367122087,
-  "updatedAt": 1780371113092,
-  "lastResponseAt": 1780371113092,
+  "updatedAt": 1780371208118,
+  "lastResponseAt": 1780371208118,
   "sessionId": "ba31eaee-9c70-4fdf-a6de-0529becff904",
   "providerState": {
     "providerSessionId": "ba31eaee-9c70-4fdf-a6de-0529becff904"
@@ -13,11 +13,11 @@
   "currentNote": "微机原理/学习大纲.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 664,
+    "inputTokens": 672,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 57088,
+    "cacheReadInputTokens": 58112,
     "contextWindow": 1000000,
-    "contextTokens": 57752,
+    "contextTokens": 58784,
     "percentage": 6
   }
 }
