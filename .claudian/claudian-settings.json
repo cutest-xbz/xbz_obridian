@@ -67,17 +67,23 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet[1m]"
+    "claude": "sonnet[1m]",
+    "codex": "gpt-5.5"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "medium"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderThinkingBudget": {
-    "claude": "low"
+    "claude": "low",
+    "codex": "low"
   },
   "savedProviderPermissionMode": {
-    "claude": "normal"
+    "claude": "normal",
+    "codex": "normal"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
