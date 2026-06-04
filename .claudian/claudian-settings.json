@@ -1,12 +1,12 @@
 {
   "userName": "",
-  "permissionMode": "plan",
+  "permissionMode": "normal",
   "model": "sonnet[1m]",
   "thinkingBudget": "low",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
-  "titleGenerationModel": "",
+  "titleGenerationModel": "gpt-5.5",
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
@@ -40,7 +40,9 @@
       "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "device:c4127fd4-0669-4b9c-b0ec-fb79373cf273": "D:\\Codex\\node_modules\\.bin\\codex.ps1"
+      },
       "customModels": "",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
@@ -53,7 +55,7 @@
     "opencode": {
       "cliPath": "",
       "cliPathsByHost": {},
-      "enabled": true,
+      "enabled": false,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
@@ -75,7 +77,7 @@
     "claude": "low"
   },
   "savedProviderPermissionMode": {
-    "claude": "plan"
+    "claude": "normal"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
