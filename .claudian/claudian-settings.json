@@ -41,7 +41,7 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:c4127fd4-0669-4b9c-b0ec-fb79373cf273": "D:\\Codex\\node_modules\\.bin\\codex.ps1"
+        "device:c4127fd4-0669-4b9c-b0ec-fb79373cf273": "D:\\Codex\\node_modules\\.bin\\codex.cmd"
       },
       "customModels": "",
       "reasoningSummary": "detailed",
