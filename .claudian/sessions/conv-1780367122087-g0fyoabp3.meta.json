@@ -4,13 +4,12 @@
   "title": "Explain the term 方法",
   "titleGenerationStatus": "success",
   "createdAt": 1780367122087,
-  "updatedAt": 1780371208118,
+  "updatedAt": 1780550925659,
   "lastResponseAt": 1780371208118,
   "sessionId": "ba31eaee-9c70-4fdf-a6de-0529becff904",
   "providerState": {
     "providerSessionId": "ba31eaee-9c70-4fdf-a6de-0529becff904"
   },
-  "currentNote": "微机原理/学习大纲.md",
   "usage": {
     "model": "sonnet[1m]",
     "inputTokens": 672,

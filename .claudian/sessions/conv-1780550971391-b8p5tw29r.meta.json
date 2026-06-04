@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780550971391-b8p5tw29r",
+  "providerId": "claude",
+  "title": "Condense to outline only",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780550971392,
+  "updatedAt": 1780551043038,
+  "lastResponseAt": 1780551043038,
+  "sessionId": "21f91863-4af5-49d6-baf1-2f02c1083e21",
+  "providerState": {
+    "providerSessionId": "21f91863-4af5-49d6-baf1-2f02c1083e21"
+  },
+  "currentNote": "数电/study/study.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 59,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41856,
+    "contextWindow": 1000000,
+    "contextTokens": 41915,
+    "percentage": 4
+  }
+}
