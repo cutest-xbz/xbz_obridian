@@ -1,11 +1,25 @@
 {
   "id": "conv-1780553028606-ds9tvi6jl",
   "providerId": "codex",
-  "title": "为我优化这份大纲",
-  "titleGenerationStatus": "failed",
+  "title": "说明模型身份",
+  "titleGenerationStatus": "success",
   "createdAt": 1780553028607,
-  "updatedAt": 1780553028652,
-  "lastResponseAt": 1780553028652,
-  "sessionId": null,
-  "currentNote": "数电/study/study.md"
+  "updatedAt": 1780558736135,
+  "lastResponseAt": 1780558730171,
+  "sessionId": "019e9190-1515-7720-a9c2-70f820a450a3",
+  "providerState": {
+    "threadId": "019e9190-1515-7720-a9c2-70f820a450a3",
+    "sessionFilePath": "C:\\Users\\13188\\.codex\\sessions\\2026\\06\\04\\rollout-2026-06-04T15-36-44-019e9190-1515-7720-a9c2-70f820a450a3.jsonl",
+    "transcriptRootPath": "C:\\Users\\13188\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 23857,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 17792,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 23857,
+    "percentage": 9,
+    "model": "gpt-5.5"
+  }
 }
