@@ -4,8 +4,8 @@
   "title": "说明模型身份",
   "titleGenerationStatus": "success",
   "createdAt": 1780553028607,
-  "updatedAt": 1781938368823,
-  "lastResponseAt": 1781938368823,
+  "updatedAt": 1781938774390,
+  "lastResponseAt": 1781938774390,
   "sessionId": "019e9190-1515-7720-a9c2-70f820a450a3",
   "providerState": {
     "threadId": "019e9190-1515-7720-a9c2-70f820a450a3",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\13188\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 60267,
+    "inputTokens": 63362,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 58752,
+    "cacheReadInputTokens": 61824,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 60267,
-    "percentage": 23,
+    "contextTokens": 63362,
+    "percentage": 25,
     "model": "gpt-5.5"
   }
 }
