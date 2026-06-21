@@ -63,3 +63,6 @@
 ![[FPGA/verilog/attachments/Pasted image 20260621165627.png]]
 
 ![[FPGA/verilog/attachments/Pasted image 20260621170222.png]]
+
+moore 状态机
+mealy状态机
