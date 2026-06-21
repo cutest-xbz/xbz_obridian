@@ -66,3 +66,4 @@
 
 moore 状态机
 mealy状态机
+![[FPGA/verilog/attachments/Pasted image 20260621220158.png]]
