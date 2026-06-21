@@ -61,3 +61,5 @@
 ![[FPGA/verilog/attachments/Pasted image 20260621160059.png]]
 
 ![[FPGA/verilog/attachments/Pasted image 20260621165627.png]]
+
+![[FPGA/verilog/attachments/Pasted image 20260621170222.png]]
