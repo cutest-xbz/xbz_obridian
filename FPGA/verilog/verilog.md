@@ -67,3 +67,41 @@
 moore 状态机
 mealy状态机
 ![[FPGA/verilog/attachments/Pasted image 20260621220158.png]]
+
+|英文|中文|
+|---|---|
+|EDA|电子设计自动化|
+|HDL|硬件描述语言|
+|Verilog HDL|Verilog 硬件描述语言|
+|VHDL|VHSIC 硬件描述语言|
+|FPGA|现场可编程门阵列|
+|CPLD|复杂可编程逻辑器件|
+|PLD|可编程逻辑器件|
+|ASIC|专用集成电路|
+|SoC / SOC|片上系统|
+|IP Core|知识产权核|
+|RTL|寄存器传输级|
+|LUT|查找表|
+|Register|寄存器|
+|Flip-Flop|触发器|
+|Latch|锁存器|
+|TestBench|测试平台|
+|Simulation|仿真|
+|Synthesis|综合|
+|Fitting|适配|
+|Place and Route|布局布线|
+|Timing Analysis|时序分析|
+|JTAG|联合测试行动组标准接口|
+|RAM|随机存取存储器|
+|ROM|只读存储器|
+|PLL|锁相环|
+|UDP|用户自定义原语|
+|Don’t Care|不关心项|
+|Moore FSM|Moore 型状态机|
+|Mealy FSM|Mealy 型状态机|
+|One-hot Encoding|一位热码编码|
+|Gray Code|格雷码|
+|Top-Down Design|自顶向下设计|
+|Bottom-Up Design|自底向上设计|
+|Soft Core|软核|
+|Hard Core|硬核|
