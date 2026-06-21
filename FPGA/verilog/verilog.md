@@ -105,3 +105,6 @@ mealy状态机
 | Bottom-Up Design | 自底向上设计         |
 | Soft Core        | 软核             |
 | Hard Core        | 硬核             |
+![[FPGA/verilog/attachments/Pasted image 20260622001450.png
+![[FPGA/verilog/attachments/Pasted image 20260622001520.png]]
+![[FPGA/verilog/attachments/Pasted image 20260622001504.png]]
